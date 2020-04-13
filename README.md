@@ -26,9 +26,4 @@ Cara Run bot tanpa pc atau di Android :
 
 Thanks to :
 - Allah SWT
-- merkremont
-- AlfathDirk
-- team TCR
-- dan para mastah/programmer lainnya
 
-#ArdSquadBot
